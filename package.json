@@ -1,0 +1,21 @@
+{
+    "name": "britney-spears-1999",
+    "displayName": "Britney Spears 1999",
+    "description": "A VS Code theme emulating colors from Britney Spears' first album, ...Baby One More Time",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.58.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Britney Spears '99",
+                "uiTheme": "vs",
+                "path": "./themes/Britney Spears '99-color-theme.json"
+            }
+        ]
+    }
+}
