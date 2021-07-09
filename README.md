@@ -1,4 +1,8 @@
-# README
+# Britney Spears | 1999 Theme
+
+### Description
+This is a light VS Code theme based on the first Britney Spears album, ...Baby One More Time.
+
 ## This is the README for your extension "britney-spears-1999"
 You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
 
@@ -6,8 +10,7 @@ You can author your README using Visual Studio Code.  Here are some useful edito
 * Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
 * Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
 **Enjoy!**
+
+#### Other Notes:
+#FreeBritney

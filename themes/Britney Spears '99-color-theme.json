@@ -368,7 +368,7 @@
 			"name": "Markup Lists",
 			"scope": "markup.list",
 			"settings": {
-				"foreground": "#4b505a"
+				"foreground": "#917bad"
 			}
 		},
 		{
